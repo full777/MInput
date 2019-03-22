@@ -1,0 +1,9 @@
+
+2019-02-20 14:39:11,595 - fll - WARNING - warning message
+2019-02-20 14:39:11,595 - fll - ERROR - error message
+2019-02-20 14:39:11,595 - fll - CRITICAL - critical message
+2019-02-20 14:39:24,366 - fll - WARNING - warning message
+2019-02-20 14:39:24,367 - fll - ERROR - error message
+2019-02-20 14:39:24,367 - fll - CRITICAL - critical message
+2019-02-20 17:13:30,268 - fll - INFO - 1332344
+2019-02-20 17:15:30,885 - fll - INFO - 1332344

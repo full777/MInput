@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/framework/basepage.py=utf-8
+encoding//src/framework/browser_engine.py=utf-8
+encoding//src/framework/logger.py=utf-8
+encoding//src/framework/readExcle.py=utf-8
+encoding//src/pageobject/custPage.py=utf-8
+encoding//src/pageobject/newEnterPPage.py=utf-8
+encoding//src/testsuit/newEnterPTest.py=utf-8

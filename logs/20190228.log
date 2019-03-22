@@ -1,0 +1,55 @@
+2019-02-28 14:46:00,176 - basepage页面 - INFO - Had find the Element '  ' successfulby name via value : loginName 
+2019-02-28 14:46:00,273 - basepage页面 - INFO - Had find the Element '  ' successfulby name via value : loginName 
+2019-02-28 14:46:00,373 - basepage页面 - INFO - Had type ' full ' in input box.
+2019-02-28 14:46:00,414 - basepage页面 - INFO - Had find the Element '  ' successfulby name via value : password 
+2019-02-28 14:46:00,460 - basepage页面 - INFO - Had find the Element '  ' successfulby name via value : password 
+2019-02-28 14:46:00,584 - basepage页面 - INFO - Had type ' 123456 ' in input box.
+2019-02-28 14:46:00,631 - basepage页面 - INFO - Had find the Element ' 登录 ' successfulby id via value : submit-btn 
+2019-02-28 14:46:00,696 - basepage页面 - INFO - The Element <selenium.webdriver.remote.webelement.WebElement (session="04676612134e138a46995bb106165c34", element="0.39708552402218955-3")> was clicked.
+2019-02-28 14:47:01,521 - basepage页面 - INFO - Had find the Element '  ' successfulby name via value : loginName 
+2019-02-28 14:47:01,605 - basepage页面 - INFO - Had find the Element '  ' successfulby name via value : loginName 
+2019-02-28 14:47:01,740 - basepage页面 - INFO - Had type ' full ' in input box.
+2019-02-28 14:47:01,781 - basepage页面 - INFO - Had find the Element '  ' successfulby name via value : password 
+2019-02-28 14:47:01,834 - basepage页面 - INFO - Had find the Element '  ' successfulby name via value : password 
+2019-02-28 14:47:01,950 - basepage页面 - INFO - Had type ' 123456 ' in input box.
+2019-02-28 14:47:01,992 - basepage页面 - INFO - Had find the Element ' 登录 ' successfulby id via value : submit-btn 
+2019-02-28 14:47:02,057 - basepage页面 - INFO - The Element <selenium.webdriver.remote.webelement.WebElement (session="09fbd98dfd334f716d4223ce7a20745d", element="0.90734339481702-3")> was clicked.
+2019-02-28 14:50:07,692 - basepage页面 - INFO - Had find the Element '  ' successfulby name via value : loginName 
+2019-02-28 14:50:07,787 - basepage页面 - INFO - Had find the Element '  ' successfulby name via value : loginName 
+2019-02-28 14:50:07,890 - basepage页面 - INFO - Had type ' full ' in input box.
+2019-02-28 14:50:07,930 - basepage页面 - INFO - Had find the Element '  ' successfulby name via value : password 
+2019-02-28 14:50:07,980 - basepage页面 - INFO - Had find the Element '  ' successfulby name via value : password 
+2019-02-28 14:50:08,115 - basepage页面 - INFO - Had type ' 123456 ' in input box.
+2019-02-28 14:50:08,168 - basepage页面 - INFO - Had find the Element ' 登录 ' successfulby id via value : submit-btn 
+2019-02-28 14:50:08,245 - basepage页面 - INFO - The Element <selenium.webdriver.remote.webelement.WebElement (session="92a7946fc00f8cddf441ab67b8cbcfe2", element="0.4062841924089913-3")> was clicked.
+2019-02-28 14:51:08,220 - basepage页面 - INFO - Had find the Element '  ' successfulby name via value : loginName 
+2019-02-28 14:51:08,313 - basepage页面 - INFO - Had find the Element '  ' successfulby name via value : loginName 
+2019-02-28 14:51:08,418 - basepage页面 - INFO - Had type ' full ' in input box.
+2019-02-28 14:51:08,459 - basepage页面 - INFO - Had find the Element '  ' successfulby name via value : password 
+2019-02-28 14:51:08,510 - basepage页面 - INFO - Had find the Element '  ' successfulby name via value : password 
+2019-02-28 14:51:08,621 - basepage页面 - INFO - Had type ' 123456 ' in input box.
+2019-02-28 14:51:08,664 - basepage页面 - INFO - Had find the Element ' 登录 ' successfulby id via value : submit-btn 
+2019-02-28 14:51:08,737 - basepage页面 - INFO - The Element <selenium.webdriver.remote.webelement.WebElement (session="fbe6bb46ff75ee997e76aaa3365ca761", element="0.6695476221297727-3")> was clicked.
+2019-02-28 15:09:09,345 - basepage页面 - ERROR - NoSuchElementException: Message: invalid selector: Unable to locate an element with the xpath expression //*[@id=\"loginApp\"]/div/div[2]/form/div[3]/div/div/div[1]/input because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@id=\"loginApp\"]/div/div[2]/form/div[3]/div/div/div[1]/input' is not a valid XPath expression.
+  (Session info: chrome=61.0.3163.79)
+  (Driver info: chromedriver=2.34.522940 (1a76f96f66e3ca7b8e57d503b4dd3bccfba87af1),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-28 15:20:12,310 - basepage页面 - ERROR - NoSuchElementException: Message: invalid selector: Unable to locate an element with the xpath expression //*[@id=\"loginApp\"]/div/div[2]/form/div[3]/div/div/div[1]/input because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@id=\"loginApp\"]/div/div[2]/form/div[3]/div/div/div[1]/input' is not a valid XPath expression.
+  (Session info: chrome=61.0.3163.79)
+  (Driver info: chromedriver=2.34.522940 (1a76f96f66e3ca7b8e57d503b4dd3bccfba87af1),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-28 15:23:17,774 - basepage页面 - ERROR - NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div[1]/div[1]/ul/li[1]"}
+  (Session info: chrome=61.0.3163.79)
+  (Driver info: chromedriver=2.34.522940 (1a76f96f66e3ca7b8e57d503b4dd3bccfba87af1),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-28 15:24:52,842 - basepage页面 - ERROR - NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[2]/div[1]/div[1]/ul/li[1]/span"}
+  (Session info: chrome=61.0.3163.79)
+  (Driver info: chromedriver=2.34.522940 (1a76f96f66e3ca7b8e57d503b4dd3bccfba87af1),platform=Windows NT 10.0.17134 x86_64)
+
+2019-02-28 15:30:03,766 - basepage页面 - ERROR - NoSuchElementException: Message: invalid selector: Unable to locate an element with the xpath expression //*[@id=\"loginApp\"]/div/div[2]/form/div[5]/div/div[2]/label[2]/span[2] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@id=\"loginApp\"]/div/div[2]/form/div[5]/div/div[2]/label[2]/span[2]' is not a valid XPath expression.
+  (Session info: chrome=61.0.3163.79)
+  (Driver info: chromedriver=2.34.522940 (1a76f96f66e3ca7b8e57d503b4dd3bccfba87af1),platform=Windows NT 10.0.17134 x86_64)
+
